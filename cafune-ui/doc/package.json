@@ -24,7 +24,7 @@
     "highlight.js": "^9.15.8",
     "html-loader": "^0.5.5",
     "if-env": "^1.0.0",
-    "markdown-it": "^8.4.2",
+    "markdown-it": "^12.3.2",
     "markdown-loader": "^5.0.0",
     "preact-async-route": "^2.2.1",
     "preact-cli": "^2.0.0",
